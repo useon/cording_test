@@ -9,5 +9,5 @@ function solution(n) {
 
 // test
 // let n = 987;
-// solution(n)
+// solution(n);
 // 1
